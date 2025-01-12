@@ -34,7 +34,7 @@ const HomeScreen = () => {
   useLayoutEffect(() => {
     navigation.setOptions({
       headerShown: true,
-      title: "Booking.com",
+      title: "Travel&Stay.com",
       headerTitleStyle: {
         fontSize: 20,
         fontWeight: "bold",

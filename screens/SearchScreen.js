@@ -17,7 +17,7 @@ const SearchScreen = () => {
           properties: [
             {
               id: "10",
-              name: "FabHotel Zeke",
+              name: "Fab Zeke Homestay",
               image:
                 "https://cf.bstatic.com/xdata/images/hotel/max1280x900/433845616.jpg?k=87bc315f35830189d9a1c935c3e167e648543c27f39ee4cafc5cf73ee24393b9&o=&hp=1",
               rating: 3.6,
@@ -82,7 +82,7 @@ const SearchScreen = () => {
               rooms: [
                 {
                   id: "202",
-                  name: "King Room with Balcony",
+                  name: "King Room with Balcony (Homestay)",
                   size: 419,
                   refundable: "refundable",
                   payment: "Pay at the property",
@@ -199,7 +199,7 @@ const SearchScreen = () => {
             },
             {
               id: "12",
-              name: "Bloom Hotel - Bengaluru Airport",
+              name: "Bloom Rental Room - near Bengaluru Airport",
               rating: 4.2,
               address:
                 "Down Town Park, Sadahalli Gate, Kempegowda Int'l Airport Rd, 562157 Bangalore, India",
@@ -259,7 +259,7 @@ const SearchScreen = () => {
               rooms: [
                 {
                   id: "202",
-                  name: "King Room with Balcony",
+                  name: "HomeStay Room with Balcony",
                   size: 419,
                   refundable: "refundable",
                   payment: "Pay at the property",
@@ -294,7 +294,7 @@ const SearchScreen = () => {
           properties: [
             {
               id: "20",
-              name: "FabExpress Airport Stay Inn",
+              name: "FabExpress Airport HomeStay Inn",
               rating: 3.5,
               address:
                 "CFC-4/C, Road No-2 Hardware Park, Beside TCS, Tukkuguda, 501351 Hyderabad, India",

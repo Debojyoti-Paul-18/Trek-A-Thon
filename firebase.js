@@ -4,12 +4,12 @@ import {getAuth} from "firebase/auth";
 import {getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDwBeoZMo89ie6_o0Acl2ApP1PQNJa0DPc",
+  apiKey: "AIzaSyAz_UevmhAQct1XAfEWk9MT5laF7WkI00w",
   authDomain: "booking-app-fd322.firebaseapp.com",
-  projectId: "booking-app-fd322",
-  storageBucket: "booking-app-fd322.appspot.com",
-  messagingSenderId: "256540609352",
-  appId: "1:256540609352:web:e6ea70879ac9cb7131817d"
+  projectId: "react-native-booking-app-8f410",
+  storageBucket: "react-native-booking-app-8f410.firebasestorage.app",
+  messagingSenderId: "1365791193",
+  appId: "1:1365791193:android:4092f1b266b5e99d0489c8"
 };
 
 
