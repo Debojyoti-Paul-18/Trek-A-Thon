@@ -50,7 +50,7 @@ To get started with the project, follow these steps:
 
 2. Navigate to the project:
    ```bash
-    cd booking-app
+    cd Trek-A-Thon
     ```
 
 ---
@@ -83,4 +83,4 @@ To close the terminal, use one of the following methods:
 	•	Close the terminal window by clicking the X button.
 
 For inquiries or support, feel free to reach out:
-	•	Email: [YOUR_EMAIL]
+	•	Email: adityasingh00552@gmail.com
